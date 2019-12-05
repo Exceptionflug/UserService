@@ -1,0 +1,6 @@
+server:
+  port: 8585
+logging:
+  file: 'logs/server.log'
+  level:
+    root: info
